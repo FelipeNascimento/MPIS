@@ -1,0 +1,10 @@
+[
+  { "id": 7, "name": "Ministro", "requiredPerShift": 1 },
+  { "id": 6, "name": "Vocal Feminino", "requiredPerShift": 2 },
+  { "id": 8, "name": "Vocal Masculino", "requiredPerShift": 1 },
+  { "id": 2, "name": "Violao", "requiredPerShift": 1 },
+  { "id": 4, "name": "Teclado", "requiredPerShift": 1 },
+  { "id": 1, "name": "Guitarra", "requiredPerShift": 1 },
+  { "id": 3, "name": "Baixo", "requiredPerShift": 1 },
+  { "id": 5, "name": "Bateria", "requiredPerShift": 1 }
+]
