@@ -121,14 +121,16 @@ function run(day: string, referenceDate: Date, count:number = 5) {
     
 
     const data = instance.getShifts(count, referenceDate, day);
+    let shift = '';
     data.forEach(item => {
-      let shift = `Domingo - ${item.date.getDate()} de ${getMonthName(item.date)}\n---\n`;
+      shift += `\n\nDomingo - ${item.date.getDate()} de ${getMonthName(item.date)}\n---\n`;
       const rolesOrdered = ['Ministro', 'Vocal', 'Teclado', 'Violao', 'Guitarra', 'Baixo', 'Bateria'];
       rolesOrdered.forEach(role => {
         shift += role + ' - ' + item.shift[role] + '\n';
       });
       console.log(shift);
     });
+    fs.writeFileSync('../docs/index.md',shift)
   } catch (e) {
     console.error(e.message, e)
   }

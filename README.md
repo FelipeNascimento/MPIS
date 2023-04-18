@@ -1,2 +1,0 @@
-# MPIS
-Automations for MPIS
