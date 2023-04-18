@@ -1,55 +1,54 @@
 
 
-Domingo - 6 de Maio
+Domingo - 6 de Maio 
 ---
-Ministro - Suelem
-Vocal - Rodrigo, Beatriz, Camila
-Teclado - Davi
-Violao - Iohan
-Guitarra - Fernandinha
-Baixo - Barbara
-Bateria - Nicolas
 
+
+| Ministro | Carlinha |
+|---|---|
+| Vocal | Rodrigo, Camila, Aline |
+| Teclado | Vitoria |
+| Violao | Rafael |
+| Guitarra | Felipe N. |
+| Baixo | Fernandinha |
+| Bateria | Nicolas |
 
 Domingo - 13 de Maio
 ---
-Ministro - Fernanda F.
-Vocal - Felipe Lima, Carlinha, Aline
-Teclado - Vitoria
-Violao - Rafael
-Guitarra - Felipe N.
-Baixo - Davi
-Bateria - Isaque
+| Ministro | Beatriz |
+| Vocal | Felipe Lima, Suelem, Susane |
+| Teclado | Davi |
+| Violao | Daniel |
+| Guitarra | Iohan |
+| Baixo | Barbara |
+| Bateria | Isaque |
 
+| Domingo - 20 de Maio ||
+|---|---|
+| Ministro | Fernanda F. |
+| Vocal | Edinilson, Camila, Carlinha |
+| Teclado | Vitoria |
+| Violao | Rafael |
+| Guitarra | Felipe N. |
+| Baixo | Fernandinha |
+| Bateria | Nicolas |
 
-Domingo - 20 de Maio
----
-Ministro - Suelem
-Vocal - Daniel, Susane, Beatriz
-Teclado - Fernandinha
-Violao - Iohan
-Guitarra - Felipe N.
-Baixo - Vitoria
-Bateria - Nicolas
+| Domingo - 27 de Maio ||
+|---|---|
+| Ministro | Aline |
+| Vocal | Rodrigo, Beatriz, Suelem |
+| Teclado | Davi |
+| Violao | Daniel |
+| Guitarra | Iohan |
+| Baixo | Vitoria |
+| Bateria | Isaque |
 
-
-Domingo - 27 de Maio
----
-Ministro - Rodrigo
-Vocal - Edinilson, Camila, Fernanda F.
-Teclado - Davi
-Violao - Rafael
-Guitarra - Fernandinha
-Baixo - Vitoria
-Bateria - Isaque
-
-
-Domingo - 3 de Junho
----
-Ministro - Carlinha
-Vocal - Felipe Lima, Aline, Susane
-Teclado - Fernandinha
-Violao - Daniel
-Guitarra - Felipe N.
-Baixo - Davi
-Bateria - Nicolas
+| Domingo - 3 de Junho ||
+|---|---|
+| Ministro | Fernanda F. |
+| Vocal | Felipe Lima, Susane, Aline |
+| Teclado | Fernandinha |
+| Violao | Rafael |
+| Guitarra | Felipe N. |
+| Baixo | Davi |
+| Bateria | Nicolas |
