@@ -2,6 +2,7 @@ export type Role = {
   id: number;
   name: string;
   requiredPerShift: number;
+  days: string[];
 };
 export type ShiftRole = Role & {
   members: number[];
