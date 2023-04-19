@@ -1,54 +1,66 @@
 
 
-Domingo - 6 de Maio 
+Domingo - 6 de Maio
 ---
-
-
-| Ministro | Carlinha |
-|---|---|
-| Vocal | Rodrigo, Camila, Aline |
-| Teclado | Vitoria |
-| Violao | Rafael |
+| Função | Escalados |
+| --- | --- |
+| Ministro | Suelem |
+| Vocal | Felipe Lima, Aline, Susane |
+| Teclado | Davi |
+| Violao | Fernandinha |
 | Guitarra | Felipe N. |
-| Baixo | Fernandinha |
+| Baixo | Barbara |
 | Bateria | Nicolas |
+| Tres Marias | Rafael |
 
 Domingo - 13 de Maio
 ---
-| Ministro | Beatriz |
-| Vocal | Felipe Lima, Suelem, Susane |
-| Teclado | Davi |
-| Violao | Daniel |
-| Guitarra | Iohan |
-| Baixo | Barbara |
-| Bateria | Isaque |
-
-| Domingo - 20 de Maio ||
-|---|---|
-| Ministro | Fernanda F. |
-| Vocal | Edinilson, Camila, Carlinha |
+| Função | Escalados |
+| --- | --- |
+| Ministro | Rodrigo |
+| Vocal | Edinilson, Beatriz, Camila |
 | Teclado | Vitoria |
 | Violao | Rafael |
-| Guitarra | Felipe N. |
-| Baixo | Fernandinha |
-| Bateria | Nicolas |
-
-| Domingo - 27 de Maio ||
-|---|---|
-| Ministro | Aline |
-| Vocal | Rodrigo, Beatriz, Suelem |
-| Teclado | Davi |
-| Violao | Daniel |
 | Guitarra | Iohan |
+| Baixo | Davi |
+| Bateria | Isaque |
+| Tres Marias | Daniel |
+
+Domingo - 20 de Maio
+---
+| Função | Escalados |
+| --- | --- |
+| Ministro | Carlinha |
+| Vocal | Felipe Lima, Fernanda F., Suelem |
+| Teclado | Fernandinha |
+| Violao | Iohan |
+| Guitarra | Felipe N. |
+| Baixo | Vitoria |
+| Bateria | Nicolas |
+| Tres Marias | Daniel |
+
+Domingo - 27 de Maio
+---
+| Função | Escalados |
+| --- | --- |
+| Ministro | Rodrigo |
+| Vocal | Edinilson, Aline, Susane |
+| Teclado | Davi |
+| Violao | Fernandinha |
+| Guitarra | Felipe N. |
 | Baixo | Vitoria |
 | Bateria | Isaque |
+| Tres Marias | Rafael |
 
-| Domingo - 3 de Junho ||
-|---|---|
-| Ministro | Fernanda F. |
-| Vocal | Felipe Lima, Susane, Aline |
+Domingo - 3 de Junho
+---
+| Função | Escalados |
+| --- | --- |
+| Ministro | Beatriz |
+| Vocal | Felipe Lima, Camila, Carlinha |
 | Teclado | Fernandinha |
 | Violao | Rafael |
 | Guitarra | Felipe N. |
 | Baixo | Davi |
 | Bateria | Nicolas |
+| Tres Marias | Daniel |
