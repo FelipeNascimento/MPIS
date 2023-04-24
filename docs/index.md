@@ -14,7 +14,7 @@
 <br/> **Teclado:** Davi
 <br/> **Violao:** Daniel
 <br/> **Guitarra:** Felipe N.
-<br/> **Baixo:** Vitoria
+<br/> **Baixo:** Fernandinha
 <br/> **Bateria:** Barbara
 
 <br/> ***Tres Marias:** Rafael
