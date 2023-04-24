@@ -15,7 +15,7 @@
 <br/> **Violao:** Daniel
 <br/> **Guitarra:** Felipe N.
 <br/> **Baixo:** Fernandinha
-<br/> **Bateria:** Barbara
+<br/> **Bateria:** Isaque
 
 <br/> ***Tres Marias:** Rafael
 
@@ -34,7 +34,7 @@
 <br/> **Violao:** Rafael
 <br/> **Guitarra:** Felipe N.
 <br/> **Baixo:** Iohan
-<br/> **Bateria:** Nicolas
+<br/> **Bateria:** Barbara
 
 <br/> ***Tres Marias:** Daniel
 
