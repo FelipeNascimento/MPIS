@@ -61,7 +61,7 @@ Domingo - 14 de Maio
 | Vocal |  Fernanda F., Aline, Edinilson |
 | Teclado | Davi |
 | Violao | Iohan |
-| Guitarra | Felipe N. |
+| Guitarra | Fernandinha |
 | Baixo | Vitoria |
 | Bateria | Isaque |
 | Tres Marias | Felipe N. |
