@@ -2,76 +2,76 @@
 
 ---
 ### Terça-feira - 25 de Abril
-**Ministro:** Daniel
-**Teclado:** Vitoria
-**Violao:** Fernandinha
-**Bateria:** Isaque
+<br/> **Ministro:** Daniel
+<br/> **Teclado:** Vitoria
+<br/> **Violao:** Fernandinha
+<br/> **Bateria:** Isaque
 
 ---
 ### Domingo - 30 de Abril
-**Ministro:** Carlinha
-**Vocal:** Edinilson, Suelem, Susane
-**Teclado:** Davi
-**Violao:** Daniel
-**Guitarra:** Felipe N.
-**Baixo:** Vitoria
-**Bateria:** Barbara
+<br/> **Ministro:** Carlinha
+<br/> **Vocal:** Edinilson, Suelem, Susane
+<br/> **Teclado:** Davi
+<br/> **Violao:** Daniel
+<br/> **Guitarra:** Felipe N.
+<br/> **Baixo:** Vitoria
+<br/> **Bateria:** Barbara
 
-***Tres Marias:** Rafael
+<br/> ***Tres Marias:** Rafael
 
 ---
 ### Terça-feira - 2 de Maio
-**Ministro:** Aline
-**Teclado:** Fernandinha
-**Violao:** Daniel
-**Bateria:** Nicolas
+<br/> **Ministro:** Aline
+<br/> **Teclado:** Fernandinha
+<br/> **Violao:** Daniel
+<br/> **Bateria:** Nicolas
 
 ---
 ### Domingo - 7 de Maio
-**Ministro:** Fernanda F. 
-**Vocal:** Felipe Lima, Beatriz, Camila
-**Teclado:** Davi
-**Violao:** Rafael
-**Guitarra:** Felipe N.
-**Baixo:** Iohan
-**Bateria:** Nicolas
+<br/> **Ministro:** Fernanda F. 
+<br/> **Vocal:** Felipe Lima, Beatriz, Camila
+<br/> **Teclado:** Davi
+<br/> **Violao:** Rafael
+<br/> **Guitarra:** Felipe N.
+<br/> **Baixo:** Iohan
+<br/> **Bateria:** Nicolas
 
-***Tres Marias:** Daniel
+<br/> ***Tres Marias:** Daniel
 
 ---
 ### Terça-feira - 9 de Maio
-**Ministro:** Rodrigo
-**Teclado:** Fernandinha
-**Violao:** Daniel
-**Bateria:** Isaque
+<br/> **Ministro:** Rodrigo
+<br/> **Teclado:** Fernandinha
+<br/> **Violao:** Daniel
+<br/> **Bateria:** Isaque
 
 ---
 ### Domingo - 14 de Maio
-**Ministro:** Felipe Lima
-**Vocal:**  Fernanda F., Aline, Edinilson
-**Teclado:** Davi
-**Violao:** Iohan
-**Guitarra:** Fernandinha
-**Baixo:** Vitoria
-**Bateria:** Isaque
+<br/> **Ministro:** Felipe Lima
+<br/> **Vocal:**  Fernanda F., Aline, Edinilson
+<br/> **Teclado:** Davi
+<br/> **Violao:** Iohan
+<br/> **Guitarra:** Fernandinha
+<br/> **Baixo:** Vitoria
+<br/> **Bateria:** Isaque
 
-***Tres Marias:** Felipe N.
+<br/> ***Tres Marias:** Felipe N.
 
 ---
 ### Terça-feira - 16 de Maio
-**Ministro:** Daniel
-**Teclado:** Vitoria
-**Violao:** Rafael
-**Bateria:** Nicolas
+<br/> **Ministro:** Daniel
+<br/> **Teclado:** Vitoria
+<br/> **Violao:** Rafael
+<br/> **Bateria:** Nicolas
 
 ---
 ### Domingo - 21 de Maio
-**Ministro:** Rodrigo
-**Vocal:** Edinilson, Camila, Susane
-**Teclado:** Davi
-**Violao:** Daniel
-**Guitarra:** Felipe N.
-**Baixo:** Vitoria
-**Bateria:** Iohan
+<br/> **Ministro:** Rodrigo
+<br/> **Vocal:** Edinilson, Camila, Susane
+<br/> **Teclado:** Davi
+<br/> **Violao:** Daniel
+<br/> **Guitarra:** Felipe N.
+<br/> **Baixo:** Vitoria
+<br/> **Bateria:** Iohan
 
-***Tres Marias:** Rafael
+<br/> ***Tres Marias:** Rafael
