@@ -54,7 +54,7 @@ class ScheduleGenerator {
     return availableMembers[0];
   }
 
-  private addMemberToRoleInCurrentShift(roleId: number, shiftDay:string) {
+  private addMemberToRoleInCurrentShift(roleId: number, shiftDay: string) {
     const memberId = this.getNextMemberForRoleInCurrentShift(roleId, shiftDay)?.id;
     let i = this.currentShift.findIndex(x => x.roleId === roleId);
     if (i < 0)
@@ -121,10 +121,12 @@ class ScheduleGenerator {
       const data = this.getShifts(count, referenceDate, days);
       let shift = '';
       data.forEach(item => {
-        shift += `\n\n---\n###${item.weekDay} - ${item.date.getDate()} de ${getMonthName(item.date)}`;
+        shift += `\n\n---\n### ${item.weekDay} - ${item.date.getDate()} de ${getMonthName(item.date)}`;
         const rolesOrdered = ['Ministro', 'Vocal', 'Teclado', 'Violao', 'Guitarra', 'Baixo', 'Bateria', 'Tres Marias'];
         rolesOrdered.forEach(role => {
-          if (item.shift[role]) shift += `\n**${role}:** ${item.shift[role]}`;
+          if (item.shift[role]) {
+            shift += role === 'Tres Marias' ? `\n\n***${role}:** ${item.shift[role]}` : `\n**${role}:** ${item.shift[role]}`;
+          }
         });
         console.log(shift);
       });
@@ -139,10 +141,9 @@ const members: Members = JSON.parse(fs.readFileSync('members.json').toString());
 const roles: Roles = JSON.parse(fs.readFileSync('roles.json').toString());
 
 const instance = new ScheduleGenerator(members, roles);
-instance.clear();
 instance.run(
   ['Domingo', 'Terça-feira'],
-  new Date(),8
+  new Date(), 8
 );
 // instance.run('Terça-feira', new Date('2023-05-01'))
 
