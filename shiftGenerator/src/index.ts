@@ -29,13 +29,14 @@ class ScheduleGenerator {
     }).sort((a, b) => a.members.length - b.members.length);
   }
 
-  private getNextMemberForRoleInCurrentShift(roleId: number) {
+  private getNextMemberForRoleInCurrentShift(roleId: number, shiftDay: string) {
     const role = this.roles.find(x => x.id === roleId);
     console.log(`Chosing member for ${role.name}`);
 
     let availableMembers = this.members
       .filter(member =>
         role.members.find(memberId => memberId === member.id) //members with role
+        && member.weekDays.some(day => day === shiftDay)
         && !this.currentShift.some(s => s.memberIds.some(m => m === member.id)) //members out of current shift
         && member.limit > member.used //members who doesn't exceed the agreed limite for month
       );
@@ -53,8 +54,8 @@ class ScheduleGenerator {
     return availableMembers[0];
   }
 
-  private addMemberToRoleInCurrentShift(roleId: number) {
-    const memberId = this.getNextMemberForRoleInCurrentShift(roleId)?.id;
+  private addMemberToRoleInCurrentShift(roleId: number, shiftDay:string) {
+    const memberId = this.getNextMemberForRoleInCurrentShift(roleId, shiftDay)?.id;
     let i = this.currentShift.findIndex(x => x.roleId === roleId);
     if (i < 0)
       this.currentShift.push({ roleId, memberIds: [memberId] });
@@ -69,7 +70,7 @@ class ScheduleGenerator {
       .filter(role => role.days.some(day => day === shiftDay))
       .forEach(role => {
         for (let i = 0; i < role.requiredPerShift; i++) {
-          this.addMemberToRoleInCurrentShift(role.id);
+          this.addMemberToRoleInCurrentShift(role.id, shiftDay);
         }
       });
   }
@@ -94,38 +95,36 @@ class ScheduleGenerator {
     return shift;
   }
 
-  getShifts(count: number, date: Date, shiftDay: string) {
-    while (getWeekDay(date) !== shiftDay) {
-      date.setDate(date.getDate() + 1);
-    }
-    console.log(`Get ${count} shifts for ${shiftDay} from ${date.toISOString()}`);
+  getShifts(count: number, date: Date, shiftDays: string[]) {
     const shifts = [];
-    for (var i = 0; i < count; i++) {
+    for (var i = 0; i < count; i++, date.setDate(date.getDate() + 1)) {
       console.log(`Get shift number ${i + 1}`);
+      while (!shiftDays.find(x => x === getWeekDay(date))) {
+        date.setDate(date.getDate() + 1);
+      }
+      const shiftDay = getWeekDay(date);
+      console.log(`Get ${count} shifts for ${getWeekDay(date)} from ${date.toISOString()}`);
       shifts.push({
         date: new Date(date),
+        weekDay: getWeekDay(date),
         shift: this.nextShift(shiftDay)
       });
-      date.setDate(date.getDate() + 7);
     }
     return shifts;
   }
   clear() {
-    fs.writeFileSync('../docs/index.md','')
+    fs.writeFileSync('../docs/index.md', '');
   }
-  run(day: string, referenceDate: Date, count: number = 5) {
+  run(days: string[], referenceDate: Date, count: number = 5) {
     try {
       console.log(`Get members and roles for shifts`);
-
-      const data = this.getShifts(count, referenceDate, day);
+      const data = this.getShifts(count, referenceDate, days);
       let shift = '';
       data.forEach(item => {
-        shift += `\n\n${day} - ${item.date.getDate()} de ${getMonthName(item.date)}\n---`;
-        shift += `\n| Função | Escalados |`;
-        shift += `\n| --- | --- |`;
+        shift += `\n\n---\n###${item.weekDay} - ${item.date.getDate()} de ${getMonthName(item.date)}`;
         const rolesOrdered = ['Ministro', 'Vocal', 'Teclado', 'Violao', 'Guitarra', 'Baixo', 'Bateria', 'Tres Marias'];
         rolesOrdered.forEach(role => {
-          if (item.shift[role]) shift += `\n| ${role} | ${item.shift[role]} |`;
+          if (item.shift[role]) shift += `\n**${role}:** ${item.shift[role]}`;
         });
         console.log(shift);
       });
@@ -140,7 +139,10 @@ const members: Members = JSON.parse(fs.readFileSync('members.json').toString());
 const roles: Roles = JSON.parse(fs.readFileSync('roles.json').toString());
 
 const instance = new ScheduleGenerator(members, roles);
-instance.clear()
-instance.run('Domingo', new Date('2023-05-01'));
+instance.clear();
+instance.run(
+  ['Domingo', 'Terça-feira'],
+  new Date(),8
+);
 // instance.run('Terça-feira', new Date('2023-05-01'))
 

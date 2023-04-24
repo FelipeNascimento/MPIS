@@ -13,8 +13,7 @@
     "name": "Vocal Feminino",
     "requiredPerShift": 2,
     "days": [
-      "Domingo",
-      "Terça-feira"
+      "Domingo"
     ]
   },
   {
@@ -22,8 +21,7 @@
     "name": "Vocal Masculino",
     "requiredPerShift": 1,
     "days": [
-      "Domingo",
-      "Terça-feira"
+      "Domingo"
     ]
   },
   {

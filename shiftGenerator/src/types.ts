@@ -11,6 +11,7 @@ export type Member = {
   id: number;
   name: string;
   roles: number[];
+  weekDays: string[];
   limit: number;
 };
 export type ShiftMember = Member & {
