@@ -125,7 +125,7 @@ class ScheduleGenerator {
         const rolesOrdered = ['Ministro', 'Vocal', 'Teclado', 'Violao', 'Guitarra', 'Baixo', 'Bateria', 'Tres Marias'];
         rolesOrdered.forEach(role => {
           if (item.shift[role]) {
-            shift += role === 'Tres Marias' ? `\n\n***${role}:** ${item.shift[role]}` : `\n**${role}:** ${item.shift[role]}`;
+            shift += role === 'Tres Marias' ? `\n\n<br/> ***${role}:** ${item.shift[role]}` : `\n<br/> **${role}:** ${item.shift[role]}`;
           }
         });
         console.log(shift);
