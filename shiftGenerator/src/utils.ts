@@ -1,12 +1,12 @@
 
 function getWeekDay(date: Date): string {
   const weekdays = ["Domingo", "Segunda-feira", "Terça-feira", "Quarta-feira", "Quinta-Feira", "Sexta-feira", "Sabado"];
-  return weekdays[date.getUTCDay()];
+  return weekdays[date.getDay()];
 }
 
 function getMonthName(date: Date): string {
   const months = ["Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"];
-  return months[date.getUTCMonth()];
+  return months[date.getMonth()];
 }
 
 function shuffleCollection<T>(items: T[]): T[] {
