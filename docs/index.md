@@ -29,7 +29,7 @@
 ---
 ### Domingo - 7 de Maio
 <br/> **Ministro:** Fernanda F. 
-<br/> **Vocal:** Felipe Lima, Beatriz, Camila
+<br/> **Vocal:** Rodrigo, Beatriz, Camila
 <br/> **Teclado:** Davi
 <br/> **Violao:** Rafael
 <br/> **Guitarra:** Felipe N.
