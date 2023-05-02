@@ -1,4 +1,8 @@
-
+### Terça-feira - 2 de Maio
+<br/> **Ministro:** Aline
+<br/> **Teclado:** Fernandinha
+<br/> **Violao:** Daniel
+<br/> **Bateria:** Nicolas
 
 ---
 ### Domingo - 7 de Maio
