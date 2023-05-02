@@ -1,36 +1,10 @@
 
 
 ---
-### Terça-feira - 25 de Abril
-<br/> **Ministro:** Daniel
-<br/> **Teclado:** Vitoria
-<br/> **Violao:** Fernandinha
-<br/> **Bateria:** Isaque
-
----
-### Domingo - 30 de Abril
-<br/> **Ministro:** Carlinha
-<br/> **Vocal:** Edinilson, Suelem, Susane
-<br/> **Teclado:** Davi
-<br/> **Violao:** Daniel
-<br/> **Guitarra:** Felipe N.
-<br/> **Baixo:** Fernandinha
-<br/> **Bateria:** Isaque
-
-<br/> ***Tres Marias:** Rafael
-
----
-### Terça-feira - 2 de Maio
-<br/> **Ministro:** Aline
-<br/> **Teclado:** Fernandinha
-<br/> **Violao:** Daniel
-<br/> **Bateria:** Nicolas
-
----
 ### Domingo - 7 de Maio
 <br/> **Ministro:** Fernanda F. 
 <br/> **Vocal:** Rodrigo, Beatriz, Camila
-<br/> **Teclado:** Davi
+<br/> **Teclado:** Vitoria
 <br/> **Violao:** Rafael
 <br/> **Guitarra:** Felipe N.
 <br/> **Baixo:** Iohan
