@@ -32,7 +32,7 @@
 ### Terça-feira - 16 de Maio
 <br/> **Ministro:** Daniel
 <br/> **Teclado:** Vitoria
-<br/> **Violao:** Rafael
+<br/> **Violao:** Fernandinha
 <br/> **Bateria:** Nicolas
 
 ---
