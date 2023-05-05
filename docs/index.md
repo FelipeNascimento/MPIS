@@ -1,6 +1,6 @@
 ### Domingo - 7 de Maio
 <br/> **Ministro:** Fernanda F. 
-<br/> **Vocal:** Rodrigo, Beatriz, Camila
+<br/> **Vocal:** Ednilson, Beatriz, Camila
 <br/> **Teclado:** Vitoria
 <br/> **Violao:** Rafael
 <br/> **Guitarra:** Felipe N.
@@ -19,7 +19,7 @@
 ---
 ### Domingo - 14 de Maio
 <br/> **Ministro:** Felipe Lima
-<br/> **Vocal:**  Fernanda F., Aline, Edinilson
+<br/> **Vocal:**  Fernanda F., Aline, Rodrigo
 <br/> **Teclado:** Davi
 <br/> **Violao:** Iohan
 <br/> **Guitarra:** Fernandinha
