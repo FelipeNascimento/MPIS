@@ -1,30 +1,11 @@
-### Domingo - 7 de Maio
-<br/> **Ministro:** Fernanda F. 
-<br/> **Vocal:** Ednilson, Beatriz, Camila
-<br/> **Teclado:** Vitoria
-<br/> **Violao:** Rafael
-<br/> **Guitarra:** Felipe N.
-<br/> **Baixo:** Iohan
-<br/> **Bateria:** Barbara
-
-<br/> ***Tres Marias:** Daniel
-
----
-### Terça-feira - 9 de Maio
-<br/> **Ministro:** Rodrigo
-<br/> **Teclado:** Fernandinha
-<br/> **Violao:** Daniel
-<br/> **Bateria:** Isaque
-
----
 ### Domingo - 14 de Maio
 <br/> **Ministro:** Felipe Lima
 <br/> **Vocal:**  Fernanda F., Aline, Rodrigo
-<br/> **Teclado:** Davi
-<br/> **Violao:** Iohan
+<br/> **Teclado:** Vitoria
+<br/> **Violao:** Daniel
 <br/> **Guitarra:** Fernandinha
-<br/> **Baixo:** Vitoria
-<br/> **Bateria:** Isaque
+<br/> **Baixo:** Iohan
+<br/> **Bateria:** Nicolas
 
 <br/> ***Tres Marias:** Felipe N.
 
