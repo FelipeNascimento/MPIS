@@ -1,20 +1,12 @@
-### Domingo - 14 de Maio
-<br/> **Ministro:** Felipe Lima
-<br/> **Vocal:**  Fernanda F., Aline, Rodrigo
-<br/> **Teclado:** Vitoria
-<br/> **Violao:** Daniel
-<br/> **Guitarra:** Fernandinha
-<br/> **Baixo:** Iohan
-<br/> **Bateria:** Nicolas
-
-<br/> ***Tres Marias:** Felipe N.
-
 ---
-### Terça-feira - 16 de Maio
-<br/> **Ministro:** Daniel
-<br/> **Teclado:** Vitoria
+### Sabado - 20 de Maio
+<br/> **Ministro:** Carlinha e Felipe
+<br/> **Vocal:** ???
+<br/> **Teclado:** ???
 <br/> **Violao:** Fernandinha
-<br/> **Bateria:** Nicolas
+<br/> **Guitarra:** Felipe N.
+<br/> **Baixo:** Iohan
+<br/> **Bateria:** Isaque
 
 ---
 ### Domingo - 21 de Maio
