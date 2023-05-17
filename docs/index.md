@@ -1,10 +1,10 @@
 ---
 ### Sabado - 20 de Maio
 <br/> **Ministro:** Carlinha e Felipe
-<br/> **Vocal:** ???
-<br/> **Teclado:** ???
-<br/> **Violao:** Fernandinha
-<br/> **Guitarra:** Felipe N.
+
+<br/> **Teclado:** Vitoria
+<br/> **Violao:** Raphael
+<br/> **Guitarra:** Fernandinha
 <br/> **Baixo:** Iohan
 <br/> **Bateria:** Isaque
 
