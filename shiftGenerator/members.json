@@ -1,12 +1,12 @@
 [  
-  { "id": 1, "limit": 10, "name": "Felipe N.", "weekDays":["Domingo"], "roles": [ 1 ] },
-  { "id": 2, "limit": 3, "name": "Iohan", "weekDays":["Domingo"], "roles": [ 1, 2, 3, 5] },
-  { "id": 3, "limit": 10, "name": "Davi", "weekDays":["Domingo"], "roles": [ 4, 3 ] },
-  { "id": 4, "limit": 10, "name": "Vitoria", "weekDays":["Domingo","Terça-feira"], "roles": [ 4, 3 ] },
-  { "id": 5, "limit": 10, "name": "Fernandinha", "weekDays":["Domingo","Terça-feira"], "roles": [ 1, 2, 3, 4, 9 ] },
-  { "id": 6, "limit": 1, "name": "Barbara", "weekDays":["Domingo","Terça-feira"], "roles": [ 5, 3 ] },
-  { "id": 7, "limit": 10, "name": "Isaque", "weekDays":["Domingo","Terça-feira"], "roles": [ 5 ] },
-  { "id": 8, "limit": 10, "name": "Daniel", "weekDays":["Domingo","Terça-feira"], "roles": [ 8, 2, 9  ] },
+  { "id": 1, "limit": 15, "name": "Felipe N.", "weekDays":["Domingo"], "roles": [ 1 ] },
+  { "id": 2, "limit": 10, "name": "Iohan", "weekDays":["Domingo"], "roles": [ 1, 2, 3, 5] },
+  { "id": 3, "limit": 15, "name": "Davi", "weekDays":["Domingo"], "roles": [ 4, 3 ] },
+  { "id": 4, "limit": 15, "name": "Vitoria", "weekDays":["Domingo","Terça-feira"], "roles": [ 4, 3 ] },
+  { "id": 5, "limit": 15, "name": "Fernandinha", "weekDays":["Domingo","Terça-feira"], "roles": [ 1, 2, 3, 4, 9 ] },
+  { "id": 6, "limit": 1, "name": "Barbara", "weekDays":["Sabado"], "roles": [ 5, 3 ] },
+  { "id": 7, "limit": 15, "name": "Isaque", "weekDays":["Domingo","Terça-feira"], "roles": [ 5 ] },
+  { "id": 8, "limit": 15, "name": "Daniel", "weekDays":["Domingo","Terça-feira"], "roles": [ 8, 2, 9  ] },
   { "id": 9, "limit": 10, "name": "Fernanda F.", "weekDays":["Domingo"], "roles": [ 6, 7 ] },
   { "id": 10, "limit": 5, "name": "Carlinha", "weekDays":["Domingo","Terça-feira"], "roles": [ 6, 7 ] },
   { "id": 11, "limit": 8, "name": "Edinilson", "weekDays":["Domingo","Terça-feira"], "roles": [ 8 ] },
@@ -17,7 +17,7 @@
   { "id": 16, "limit": 8, "name": "Felipe Lima", "weekDays":["Domingo","Terça-feira"], "roles": [ 8, 7 ] },
   { "id": 17, "limit": 8, "name": "Camila", "weekDays":["Domingo","Terça-feira"], "roles": [ 6 ] },
   { "id": 18, "limit": 8, "name": "Beatriz", "weekDays":["Domingo","Terça-feira"], "roles": [ 6, 7 ] },
-  { "id": 19, "limit": 8, "name": "Nicolas", "weekDays":["Domingo","Terça-feira"], "roles": [ 5 ] },
-  { "id": 20, "limit": 8, "name": "Raphael", "weekDays":["Domingo"], "roles": [ 2, 9 ] }
+  { "id": 19, "limit": 15, "name": "Nicolas", "weekDays":["Domingo","Terça-feira"], "roles": [ 5 ] },
+  { "id": 20, "limit": 15, "name": "Raphael", "weekDays":[], "roles": [ 2, 9 ] }
 
 ]
