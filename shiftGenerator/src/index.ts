@@ -143,6 +143,6 @@ const roles: Roles = JSON.parse(fs.readFileSync('roles.json').toString());
 const instance = new ScheduleGenerator(members, roles);
 instance.run(
   ['Domingo', 'Terça-feira'],
-  new Date('2023-05-22'), 3
+  new Date('2023-05-30'), 9
 );
 
