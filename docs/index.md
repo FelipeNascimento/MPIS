@@ -1,4 +1,3 @@
----
 ## Congresso
 
 ### Sexta-Feira - 23 de Junho
@@ -42,5 +41,3 @@
 <br/> **Teclado:** Vitoria
 <br/> **Violao:** Daniel
 <br/> **Bateria:** Isaque
-
----
