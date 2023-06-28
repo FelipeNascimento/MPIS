@@ -2,10 +2,10 @@
 <br/> **Ministro:** Rodrigo
 <br/> **Vocal:** Fenanda F., Edinilson, Aline
 <br/> **Teclado:** Vitoria
-<br/> **Violao:** ---
+<br/> **Violao:** Fernandinha
 <br/> **Guitarra:** Felipe N.
-<br/> **Baixo:** Fernandinha
-<br/> **Bateria:** Iohan
+<br/> **Baixo:** Iohan
+<br/> **Bateria:** Isaque
 
 <br/> ***Tres Marias:** Raphael
 
