@@ -1,8 +1,8 @@
 ### Terça-feira - 4 de Julho
-<br/> **Ministro:** Felipe Lima
+<br/> **Ministro:** Aline
 <br/> **Teclado:** Fernandinha
 <br/> **Violao:** Daniel
-<br/> **Bateria:** Breno
+<br/> **Bateria:** Nicolas
 
 ---
 ### Domingo - 9 de Julho
@@ -18,8 +18,8 @@
 
 ---
 ### Terça-feira - 11 de Julho
-<br/> **Ministro:** Aline
+<br/> **Ministro:** Felipe L.
 <br/> **Teclado:** Vitoria
 <br/> **Violao:** Fernandinha
-<br/> **Bateria:** Nicolas
+<br/> **Bateria:** Breno
 
