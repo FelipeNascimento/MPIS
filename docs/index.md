@@ -7,7 +7,7 @@
 ---
 ### Domingo - 9 de Julho
 <br/> **Ministro:** Carlinha
-<br/> **Vocal:** Carlos Jr, Camila, Aline
+<br/> **Vocal:** Carlos Jr, Camila, Suelem
 <br/> **Teclado:** Vitoria
 <br/> **Violao:** Raphael
 <br/> **Guitarra:** Felipe N.
