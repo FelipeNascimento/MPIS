@@ -1,6 +1,6 @@
 ### Sabado - 15 de Julho - Redimidos
 <br/> **Ministro:** Carlinha
-<br/> **Vocal:** Felipe L., ???
+<br/> **Vocal:** Felipe L.
 <br/> **Teclado:** Vitoria
 <br/> **Violao:** Raphael
 <br/> **Guitarra:** Felipe N.
@@ -9,7 +9,7 @@
 
 ---
 ### Domingo - 16 de Julho
-<br/> **Ministro:** Beatriz
+<br/> **Ministro:** Suelem
 <br/> **Vocal:** Edinilson, Susane, Fernanda F.
 <br/> **Teclado:** Vitoria
 <br/> **Violao:** Daniel
@@ -22,14 +22,14 @@
 ---
 ### Terça-feira - 18 de Julho
 <br/> **Ministro:** Aline
-<br/> **Teclado:** Fernandinha
+<br/> **Teclado:** Vitoria
 <br/> **Violao:** Daniel
 <br/> **Bateria:** Nicolas
 
 ---
 ### Domingo - 23 de Julho
-<br/> **Ministro:** Suelem
-<br/> **Vocal:** Carlos Jr, Camila, Aline
+<br/> **Ministro:** Fernanda F.
+<br/> **Vocal:** Felipe L., Camila, Aline
 <br/> **Teclado:** Vitoria
 <br/> **Violao:** Raphael
 <br/> **Guitarra:** Felipe N.
@@ -47,15 +47,15 @@
 
 ---
 ### Domingo - 30 de Julho
-<br/> **Ministro:** Aline
-<br/> **Vocal:** Fernanda F., Carlinha, Camila
+<br/> **Ministro:** Felipe L.
+<br/> **Vocal:** Carlos Jr, Carlinha, Camila
 <br/> **Teclado:** Vitoria
 <br/> **Violao:** Raphael
 <br/> **Guitarra:** Fernandinha
 <br/> **Baixo:** Iohan
 <br/> **Bateria:** Isaque
 
-<br/> ***Tres Marias:** Felipe N.
+<br/> ***Tres Marias:** Daniel
 
 ---
 ### Terça-feira - 1 de Agosto
