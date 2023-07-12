@@ -1,25 +1,65 @@
-### Terça-feira - 4 de Julho
+### Sabado - 15 de Julho - Redimidos
+<br/> **Ministro:** Carlinha
+<br/> **Vocal:** Felipe L., ???
+<br/> **Teclado:** Vitoria
+<br/> **Violao:** Raphael
+<br/> **Guitarra:** Felipe N.
+<br/> **Baixo:** Fernandinha
+<br/> **Bateria:** Barbara
+
+---
+### Domingo - 16 de Julho
+<br/> **Ministro:** Beatriz
+<br/> **Vocal:** Edinilson, Susane, Fernanda F.
+<br/> **Teclado:** Vitoria
+<br/> **Violao:** Daniel
+<br/> **Guitarra:** Felipe N.
+<br/> **Baixo:** Fernandinha
+<br/> **Bateria:** Isaque
+
+<br/> ***Tres Marias:** Raphael
+
+---
+### Terça-feira - 18 de Julho
 <br/> **Ministro:** Aline
 <br/> **Teclado:** Fernandinha
 <br/> **Violao:** Daniel
 <br/> **Bateria:** Nicolas
 
 ---
-### Domingo - 9 de Julho
-<br/> **Ministro:** Carlinha
-<br/> **Vocal:** Carlos Jr, Camila, Suelem
+### Domingo - 23 de Julho
+<br/> **Ministro:** Suelem
+<br/> **Vocal:** Carlos Jr, Camila, Aline
 <br/> **Teclado:** Vitoria
 <br/> **Violao:** Raphael
 <br/> **Guitarra:** Felipe N.
 <br/> **Baixo:** Fernandinha
-<br/> **Bateria:** Isaque
+<br/> **Bateria:** Iohan
 
 <br/> ***Tres Marias:** Daniel
 
 ---
-### Terça-feira - 11 de Julho
-<br/> **Ministro:** Felipe L.
-<br/> **Teclado:** Vitoria
-<br/> **Violao:** Fernandinha
-<br/> **Bateria:** Breno
+### Terça-feira - 25 de Julho
+<br/> **Ministro:** Rodrigo
+<br/> **Teclado:** Fernandinha
+<br/> **Violao:** Daniel
+<br/> **Bateria:** Nicolas
 
+---
+### Domingo - 30 de Julho
+<br/> **Ministro:** Aline
+<br/> **Vocal:** Fernanda F., Carlinha, Camila
+<br/> **Teclado:** Vitoria
+<br/> **Violao:** Raphael
+<br/> **Guitarra:** Fernandinha
+<br/> **Baixo:** Iohan
+<br/> **Bateria:** Isaque
+
+<br/> ***Tres Marias:** Felipe N.
+
+---
+### Terça-feira - 1 de Agosto
+<br/> **Ministro:** Beatriz
+<br/> **Teclado:** Vitoria
+<br/> **Violao:** Daniel
+<br/> **Bateria:** Nicolas
